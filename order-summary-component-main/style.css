@@ -87,7 +87,7 @@ h3 {
 	width: 100%;
 	height: 50%;
 }
-a{
+a {
 	margin-left: auto; /* Dodaj to, aby wyrównać link do prawej strony */
 	color: hsl(245, 75%, 52%); /* Dodaj styl dla linku */
 	font-weight: 700;
@@ -95,7 +95,7 @@ a{
 .icon-music {
 	height: 50%;
 }
-.btn-div{
+.btn-div {
 	display: flex;
 	flex-direction: column;
 	width: 100%;
@@ -109,4 +109,9 @@ a{
 	body {
 		height: auto;
 	}
+}
+
+/* testing git, dont mind this */
+h6 {
+	text-align: center;
 }
